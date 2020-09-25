@@ -32,6 +32,9 @@ gem 'autoprefixer-rails'
 gem 'font-awesome-sass'
 gem 'simple_form'
 
+# Essa gem serve pra deixar o Antonio com raiva
+gem 'pg_search'
+
 group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
